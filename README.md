@@ -37,8 +37,15 @@ A very basic but thoroughly documented Express API for use in Carrot U API class
 
   Then, install your missing dependencies and *follow the instructions output by Homebrew to ensure the software is started now and on login*:
 
-  - **Node.js:** `brew install node`
-  - **MongoDB:** `brew install mongo`
+  - **Node.js:**
+    ```
+    brew install node
+    ```
+
+  - **MongoDB:**
+    ```
+    brew install mongo
+    ```
 
 2. Change into the directory you'd like to clone the project to.  For example:
    ```sh
@@ -59,3 +66,7 @@ A very basic but thoroughly documented Express API for use in Carrot U API class
    ```sh
    npm start
    ```
+
+### Usage
+
+The incredible Amanda Yang ([@cutecreep](http://github.com/cutecreep)) wrote a Python script for manipulating the API's public instance ([carrot-u-api.herokuapp.com](http://carrot-u-api.herokuapp.com)).  It's located [here](http://github.com/carrot/carrot-u-api-python) and includes a README, too!
