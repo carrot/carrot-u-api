@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.12.3",
+    "body-parser": "^1.12.2",
+    "lodash": "^3.5.0",
+    "mongoose": "^3.8.25"
+  },
+  "scripts": {
+    "start": "node lib/index.js"
+  }
+}
